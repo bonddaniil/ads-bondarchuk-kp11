@@ -1,0 +1,14 @@
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.exe
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.deps.json
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.runtimeconfig.json
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.runtimeconfig.dev.json
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.dll
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\bin\Debug\netcoreapp3.1\Завдання_1_варіант_6.pdb
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.csproj.AssemblyReference.cache
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.AssemblyInfoInputs.cache
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.AssemblyInfo.cs
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.csproj.CoreCompileInputs.cache
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.dll
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.pdb
+D:\Учеба\АСД\лаб1\Завдання_1_варіант_6\obj\Debug\netcoreapp3.1\Завдання_1_варіант_6.genruntimeconfig.cache
