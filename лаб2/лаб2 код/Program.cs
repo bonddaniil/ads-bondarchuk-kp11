@@ -13,8 +13,12 @@ namespace листик
         {
             Write("matrix length and width (N/M) = ");
             N = int.Parse(Console.ReadLine());
+            int[,] checkMatrix = CheckMatrix(N);
+            PrintMatrix(checkMatrix);
+            WriteLine();
             matrix = GenerateMatrix(N);
             PrintMatrix(matrix);
+            
 
             //****************************
             /* WriteLine();
@@ -60,6 +64,21 @@ namespace листик
                 WriteLine();
             }
             Write("\n");
+        }
+
+        static int[,] CheckMatrix(int dim)
+        {
+            int[,] checkMatrix = new int[dim, dim];
+            int counter = 0;
+            for (int i = 0; i < checkMatrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < checkMatrix.GetLength(1); j++)
+                {
+                    checkMatrix[i, j] = counter;
+                    counter++;
+                }
+            }
+            return checkMatrix;
         }
 
         static void Diagonal(int[,] arr)

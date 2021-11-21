@@ -12,3 +12,17 @@ D:\Учеба\АСД\лаб 2\практична 2\obj\Debug\netcoreapp3.1\пр�
 D:\Учеба\АСД\лаб 2\практична 2\obj\Debug\netcoreapp3.1\практична 2.dll
 D:\Учеба\АСД\лаб 2\практична 2\obj\Debug\netcoreapp3.1\практична 2.pdb
 D:\Учеба\АСД\лаб 2\практична 2\obj\Debug\netcoreapp3.1\практична 2.genruntimeconfig.cache
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.exe
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.deps.json
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.runtimeconfig.json
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.runtimeconfig.dev.json
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.dll
+D:\Учеба\АСД\лаб 2\лаб2 код\bin\Debug\netcoreapp3.1\практична 2.pdb
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.csproj.AssemblyReference.cache
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.AssemblyInfoInputs.cache
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.AssemblyInfo.cs
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.csproj.CoreCompileInputs.cache
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.dll
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.pdb
+D:\Учеба\АСД\лаб 2\лаб2 код\obj\Debug\netcoreapp3.1\практична 2.genruntimeconfig.cache
