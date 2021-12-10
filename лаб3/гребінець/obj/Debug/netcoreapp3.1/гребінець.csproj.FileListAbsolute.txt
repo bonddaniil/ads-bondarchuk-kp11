@@ -1,0 +1,14 @@
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.exe
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.deps.json
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.runtimeconfig.json
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.runtimeconfig.dev.json
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.dll
+D:\Учеба\АСД\лаб3\гребінець\bin\Debug\netcoreapp3.1\гребінець.pdb
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.csproj.AssemblyReference.cache
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.AssemblyInfoInputs.cache
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.AssemblyInfo.cs
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.csproj.CoreCompileInputs.cache
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.dll
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.pdb
+D:\Учеба\АСД\лаб3\гребінець\obj\Debug\netcoreapp3.1\гребінець.genruntimeconfig.cache
