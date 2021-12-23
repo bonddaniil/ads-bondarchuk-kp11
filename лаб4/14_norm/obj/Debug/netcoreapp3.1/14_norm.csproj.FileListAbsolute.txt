@@ -1,0 +1,14 @@
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.exe
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.deps.json
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.runtimeconfig.json
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.runtimeconfig.dev.json
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.dll
+D:\Учеба\АСД\лаб4\14_norm\bin\Debug\netcoreapp3.1\14_norm.pdb
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.csproj.AssemblyReference.cache
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.AssemblyInfoInputs.cache
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.AssemblyInfo.cs
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.csproj.CoreCompileInputs.cache
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.dll
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.pdb
+D:\Учеба\АСД\лаб4\14_norm\obj\Debug\netcoreapp3.1\14_norm.genruntimeconfig.cache
