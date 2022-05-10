@@ -1,0 +1,8 @@
+D:\Учеба\АСД\лаб5\5.2\5.2\bin\Debug\5.2.exe.config
+D:\Учеба\АСД\лаб5\5.2\5.2\bin\Debug\5.2.exe
+D:\Учеба\АСД\лаб5\5.2\5.2\bin\Debug\5.2.pdb
+D:\Учеба\АСД\лаб5\5.2\5.2\obj\Debug\5.2.csproj.AssemblyReference.cache
+D:\Учеба\АСД\лаб5\5.2\5.2\obj\Debug\5.2.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\АСД\лаб5\5.2\5.2\obj\Debug\5.2.csproj.CoreCompileInputs.cache
+D:\Учеба\АСД\лаб5\5.2\5.2\obj\Debug\5.2.exe
+D:\Учеба\АСД\лаб5\5.2\5.2\obj\Debug\5.2.pdb
