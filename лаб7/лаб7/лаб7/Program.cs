@@ -17,7 +17,7 @@ namespace лаб7
             while (true)
             {
                 Console.WriteLine("/findEntry to look for an Entry,");
-                Console.WriteLine("/printEntry to print the table");
+                Console.WriteLine("/printTable to print the table");
                 Console.WriteLine("/getHash to print hashcode of Key");
                 Console.WriteLine("/hashCode to count Hash func");
                 Console.WriteLine("/end to finish program, /customExample if you want to use created table");
